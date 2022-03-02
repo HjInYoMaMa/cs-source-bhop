@@ -28,5 +28,5 @@ int main()
 		fj = 4;
 		WriteProcessMemory(pHandle, (LPVOID)Forcejump, &fj, sizeof(int), 0);
 	}
-  }
+    }
 }
