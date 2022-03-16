@@ -2,8 +2,8 @@
 #include <Windows.h>
 
 DWORD pid;
-DWORD Bunnyhop = 0x0B4FD7D4;
-DWORD Forcejump = 0x21665D24;
+DWORD Bunnyhop = 0x6969; //Put here newer offset lmao
+DWORD Forcejump = 0x1337; //Put here newer offset lmao
 int fj;
 int value;
 
